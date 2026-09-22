@@ -16,7 +16,7 @@ char *ft_strdup(char *string)
         char *dest ; 
         int len  = str_len(string);
         dest  =malloc(sizeof(char) *(len+1));
-        if (!dest)
+        if (!dest) // if (dest == NULL){return NULL}
         {
             return(0);
         }
@@ -36,7 +36,7 @@ char *ft_strdup(char *string)
         }
 }
 
-int main(void)
+int main()
 {
     char string[] = "hello user";
     ft_strdup(string);
