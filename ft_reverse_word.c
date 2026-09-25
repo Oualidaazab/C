@@ -19,10 +19,10 @@
 /*                                                        :::      ::::::::   */
 /*   reverse_string.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: OUAILD AAZAB <username@student.42.fr>      +#+  +:+       +#+        */
+/*   By: OUAILD AAZAB <oualid @student.42.fr>      +#+  +:+       +#+         */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/09/25 12:00:00 by oualid aazab      #+#    #+#             */
-/*   Updated: 2026/09/25 12:00:00 by oualid aaza      ###   ########.fr       */
+/*   Updated: 2026/09/25 12:00:00 by oualid aazab     ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
