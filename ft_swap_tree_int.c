@@ -1,9 +1,10 @@
 //*****************************************************************************/
-//Write a function that swap betwin tree integers a , b , c                    |     
+// Write a function that swap betwin tree integers a , b , c                   |     
 // Example                                                                     |    
 // a = 1 , b = 2  , c = 3                                                      |         
 // a = 3 ; b = 1 , c = 2                                                       |
-// allow function write                                                        | 
+// allow function write                                                        |
+// by oualid aazab                                                             |
 /******************************************************************************/
 #include <unistd.h>
 #include <stdio.h>
