@@ -1,5 +1,7 @@
 #include <unistd.h>
 #include <stdio.h>
+// write a funtion that take argement as string and print it as integer 
+// Example : ./a.out "123" ==> 123  , ./a.out "hello" ==> 0 , ./a.out "     123" ==> 123  ...etc
 void put_number(int nb)
 {
     int i   = 0 ; 
