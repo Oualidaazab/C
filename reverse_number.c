@@ -6,7 +6,6 @@ int reverse(int x)
     {
         int digit =  x  % 10 ;
         x = x / 10;
-        // overflow ckeck_out
         if (result  < -214748364 ||  result ==  -214748364 && digit < -8)
         {
             return(0);
