@@ -18,6 +18,6 @@ int  ft_iterative_power(int nb)
 int main(void)
 {
     int nb  = 9;  
-    int y = ft_iterative_power(nb); // retur value  ===>  3    
+    int y = ft_iterative_power(nb); // return value  ===>  3    
     printf("%d",y);
 }
